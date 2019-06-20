@@ -1,0 +1,45 @@
+.div1{
+  background-color: orange;
+  text-align: center;
+  padding: 15px;
+}
+.table1, .td1{
+  font-family:fantasy; 
+  margin: auto;
+  text-align: center;
+  border: solid 3px;
+  border-collapse: collapse;
+  padding: 10px;
+  border-color: red;
+  border-style:double;
+} 
+h1{
+  font-family:cursive;
+}
+
+h2{
+  font-family:cursive; 
+}
+
+.div2{
+  border:red solid 5px;
+  border-style:double;
+  background-color: orange;
+  padding: 10px;
+}
+
+.table3{
+  margin: auto;
+  border: solid 3px;
+  border-collapse: collapse;
+  padding: 10px;
+  border-color: blue;
+  border-style:double;
+} 
+
+.bodyy{
+  border: 1px solid blue;
+  padding: 1px
+}
+
+
